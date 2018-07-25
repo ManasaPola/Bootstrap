@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b124b9-649b-4dfc-935d-13d0dd462408" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +25,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="123" column="212" selection-start-line="123" selection-start-column="212" selection-end-line="123" selection-end-column="212" />
+            <state relative-caret-position="221">
+              <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
               <folding>
                 <element signature="e#2089#2096#1" expanded="true" />
+                <element signature="e#4194#4201#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,6 +123,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="loginmodal&#9;null&#9;null&#10;modal&#9;null&#9;null&#10;model&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -210,12 +211,12 @@
       <workItem from="1531882792977" duration="24553000" />
       <workItem from="1532209294975" duration="238000" />
       <workItem from="1532219653039" duration="1011000" />
-      <workItem from="1532275161316" duration="9182000" />
+      <workItem from="1532275161316" duration="12224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56408000" />
+    <option name="totallyTimeSpent" value="59450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -294,6 +295,7 @@
           <caret line="39" column="50" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="50" />
           <folding>
             <element signature="e#2089#2096#1" expanded="true" />
+            <element signature="e#4194#4201#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,12 +500,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="123" column="212" selection-start-line="123" selection-start-column="212" selection-end-line="123" selection-end-column="212" />
+        <state relative-caret-position="221">
+          <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
           <folding>
             <element signature="e#2089#2096#1" expanded="true" />
+            <element signature="e#4194#4201#1" expanded="true" />
           </folding>
         </state>
       </provider>
